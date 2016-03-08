@@ -1,6 +1,6 @@
 # Mocha-Chai
 
-Simple Mocha example with some Chai assertions as well.
+Simple Mocha examples with some Chai assertions as well.
 
 To run, pull down the code and run:
 
@@ -12,4 +12,4 @@ To run the tests simply run:
 
 <code>mocha</code>
 
-Tests are written in test.js and incorporate various math functions from math.js
+Tests are written in test.js and incorporate various math functions from math.js.
