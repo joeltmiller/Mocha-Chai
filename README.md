@@ -10,6 +10,6 @@ That will install [Mocha](http://www.mochajs.org) and [Chai](http://www.chaijs.c
 
 To run the tests simply run
 
-```mocha```
+<code>mocha</code>
 
-```Tests are written in test.js and incorporate various math functions from math.js
+Tests are written in test.js and incorporate various math functions from math.js
