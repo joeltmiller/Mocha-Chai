@@ -12,4 +12,4 @@ To run the tests simply run
 
 ```mocha```
 
-Tests are written in test.js and incorporate various math functions from math.js
+```Tests are written in test.js and incorporate various math functions from math.js
