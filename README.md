@@ -8,7 +8,7 @@ To run, pull down the code and run:
 
 That will install [Mocha](http://www.mochajs.org) and [Chai](http://www.chaijs.com)
 
-To run the tests simply run
+To run the tests simply run:
 
 <code>mocha</code>
 
